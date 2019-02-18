@@ -13,6 +13,6 @@ GPS estimate of its initial location, and lots of (noisy) sensor and control dat
 > - Markov localization
 > 
 > #### Languages
-> C++
-> 
+> C++  
+> #### Video 
 > [![Kidnapped Vehicle](http://img.youtube.com/vi/43LW9t7uklo/0.jpg)](https://youtu.be/43LW9t7uklo "Kidnapped Vehicle Project")
