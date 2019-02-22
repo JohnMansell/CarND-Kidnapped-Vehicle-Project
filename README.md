@@ -1,6 +1,6 @@
 
 # Kidnapped Vehicle
-> [![Kidnapped Vehicle](WriteUp/KidnappedVehicle.gif)](https://youtu.be/43LW9t7uklo "Kidnapped Vehicle Project")
+> [![Kidnapped Vehicle](WriteUp/KidnappedVehicle.gif)](https://youtu.be/43LW9t7uklo "Kidnapped Vehicle Project")  
 > [Full Video](https://youtu.be/43LW9t7uklo) on YouTube
 # Objective
 > Your robot has been kidnapped and transported to a new location! Luckily it has a map of this location, a (noisy) 
